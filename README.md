@@ -1,5 +1,5 @@
 
-**# To-Do List Application**
+# To-Do List Application**
 
 Overview
 This is a simple To-Do List application built using Python and Tkinter for the graphical user interface. The application allows users to add, view, and delete tasks in an intuitive and easy-to-use interface.
